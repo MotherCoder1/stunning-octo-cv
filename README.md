@@ -1,1 +1,2 @@
-Use this document to see what your professional CV could look like using only html!
+See the link below to see the project parameters
+https://roadmap.sh/projects/single-page-cv
